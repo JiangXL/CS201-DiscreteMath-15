@@ -22,8 +22,8 @@ A relation on a set *A* is a relation from *A* to *A*.
 
 ### Properties of Relations
 
-A relation *R* on a set *A* called *reflexive* if (a,a) belong to *R* for every 
-elements *a* belong *A*.
+A relation *R* on a set *A* called *reflexive（反身的）* if (a,a) belong to *R* 
+for every elements *a* belong *A*.
 
 
 
@@ -44,4 +44,5 @@ it is reflexive, symmetric, and transitive.
 **Definition 2**: Two elements *a* and *b* that are related by an equivalence 
 relation are called equivalent.(*a*~*b*)
 
-## 9.6 Partial Orderings(Pianxu)
+## 9.6 Partial Orderings(偏序)
+
